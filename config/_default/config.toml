@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://hugo-starter.pages.dev"
+baseurl = "https://hugostarter.pages.dev"
 languageCode = "en-us"
 title = "Hugo Starter"
 
